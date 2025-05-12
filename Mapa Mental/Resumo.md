@@ -1,8 +1,5 @@
 # 🔧 Consultoria para Modernização de Servidor – Clínica VidaMais
 
-## 🎯 Objetivo do Projeto
-Aplicar os conhecimentos da disciplina de Arquitetura de Computadores em uma consultoria simulada para modernização ou aquisição de servidor. A empresa fictícia **Clínica VidaMais** foi selecionada como cliente para avaliação de diferentes soluções de infraestrutura.
-
 ---
 
 ## 🟡 1. Preparação e Planejamento
@@ -29,16 +26,6 @@ Aplicar os conhecimentos da disciplina de Arquitetura de Computadores em uma con
   - Perda de dados
   - Falhas operacionais
   - Multas e penalidades legais
-
-### ✅ Reunião Inicial e Planejamento
-- Discussão em equipe para entender as necessidades da clínica
-- Leitura integral do escopo
-- Divisão de responsabilidades:
-  - GitHub: Pedro Janot
-  - Mapa Mental: [Responsável]
-  - Podcast: Caio Mouraes
-  - Quiz: Arthur Lanza
-- Criação de cronograma de tarefas
 
 ---
 
