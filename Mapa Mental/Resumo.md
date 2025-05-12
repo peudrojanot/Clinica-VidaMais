@@ -106,13 +106,3 @@
 
 ### 📤 Exportação
 - PDF e PNG do mapa
-
-### 📦 Publicação
-- Upload no GitHub
-- Inserção do link no `README.md`
-
-### ✅ Checklist Final
-- [x] Mapa revisado
-- [x] Link público gerado
-- [x] Comunicação à equipe
-- [x] Alinhamento com cronograma
