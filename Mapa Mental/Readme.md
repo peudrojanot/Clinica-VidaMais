@@ -1,5 +1,5 @@
 
-![Mapa Mental](Mapa%20Mental/image.png)
+![Mapa Mental](Mapa Mental/image.png)
 
 ---
 
