@@ -1,3 +1,8 @@
+
+![Mapa Mental](image.png)
+
+---
+
 # 🔧 Consultoria para Modernização de Servidor – Clínica VidaMais
 
 ---
