@@ -1,5 +1,5 @@
 
-![Mapa Mental](Clinica-VidaMais/Mapa Mental/image.png)
+![Mapa Mental](Mapa%20Mental/image.png)
 
 ---
 
