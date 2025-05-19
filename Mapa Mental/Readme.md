@@ -1,5 +1,5 @@
 
-![Mapa Mental](Mapa%20Mental/image.png)
+![Mapa Mental](https://github.com/peudrojanot/Clinica-VidaMais/blob/main/Mapa%20Mental/image.png)
 
 ---
 
