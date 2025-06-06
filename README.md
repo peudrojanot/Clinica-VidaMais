@@ -88,8 +88,8 @@ Após a avaliação dos custos, benefícios e necessidades operacionais da clín
 
 ## 📂 Links dos Materiais do Projeto
 
-- 🔗 **Mapa Mental:** [Inserir link aqui]  
-- 🎙️ **Podcast:** [Inserir link aqui]  
+- 🔗 **Mapa Mental:** [Acessar Mapa Mental](https://mm.tt/map/3718081669?t=dXdaqTNKLn)  
+- 🎙️ **Podcast:** [Acessar Podcast](https://open.spotify.com/episode/0IbpJqfhoy6yNzXg0SrdfP?si=fb57d266bae64e64)  
 - ❓ **Quiz:** [Acessar Quiz](https://pt.quizur.com/studio/create/trivia)  
 
 ---
