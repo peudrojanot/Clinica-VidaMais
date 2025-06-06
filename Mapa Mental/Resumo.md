@@ -1,108 +1,57 @@
-# 🔧 Consultoria para Modernização de Servidor – Clínica VidaMais
+# 📄 Resumo do Projeto – Consultoria para Modernização de Servidor
+
+## 🎯 Objetivo
+O projeto teve como meta aplicar, na prática, os conhecimentos da disciplina de **Arquitetura de Computadores**, oferecendo uma **consultoria fictícia para a modernização de servidores** da Clínica VidaMais, localizada em Salvador/BA.
 
 ---
 
-## 🟡 1. Preparação e Planejamento
+## 🛠 Etapas Concluídas
 
-### 📍 Sobre a Clínica VidaMais
-- Local: Salvador - BA  
-- Porte: Médio  
-- Funcionários: +50  
-- Atendimentos: ~200/dia  
-- Sistemas utilizados:
-  - Prontuário eletrônico
-  - Agendamento online
-  - Resultados de exames
-  - Faturamento digital
-
-### ❌ Problemas Atuais
-- Servidor legado (2014)
+### 1. Levantamento de Necessidades
+- Diagnóstico do servidor legado da clínica (ano 2014), que apresentava:
   - Baixo desempenho
-  - Armazenamento limitado
-  - Sem backup automatizado
-  - Sem redundância (RAID)
-  - Não atende à LGPD
-- **Riscos**:
-  - Perda de dados
-  - Falhas operacionais
-  - Multas e penalidades legais
+  - Riscos à conformidade com a LGPD
+  - Ausência de backup e redundância
+
+### 2. Pesquisa Técnica
+- Estudo comparativo entre:
+  - Servidores físicos, dedicados e em nuvem
+  - Arquiteturas locais vs. híbridas vs. cloud computing
+- Priorização de soluções escaláveis, seguras e com menor custo de manutenção
+
+### 3. Escolha Técnica Justificada
+- Migração para a **nuvem (AWS ou Azure)**:
+  - Segurança e backup automatizado
+  - Escalabilidade para novas unidades
+  - Conformidade com a LGPD
+
+### 4. Produções Colaborativas
+- **Mapa Mental** com estrutura lógica da decisão
+- **Repositório GitHub** com todos os materiais
+- **Quiz técnico** com 10 perguntas sobre arquitetura de computadores
+- **Podcast** com o episódio piloto explicando a solução, gerado com auxílio de IA
 
 ---
 
-## 🔵 2. Estruturação do Conteúdo
-
-### 🔍 Levantamento Técnico
-
-#### Tipos de Servidores
-- Físico Local
-- Virtual Dedicado
-- Compartilhado
-- Em Nuvem (AWS, Azure, Google Cloud)
-- Híbrido
-
-#### Comparação de Arquiteturas
-
-| Critério                 | Físico Atual       | Modernizado        | Nuvem (AWS/Azure)  | Híbrido                |
-|--------------------------|--------------------|---------------------|---------------------|------------------------|
-| Custo Inicial            | Já adquirido       | Médio               | Baixo               | Médio                  |
-| Manutenção               | Alta               | Alta                | Baixa               | Média                  |
-| Escalabilidade           | Muito limitada     | Limitada            | Alta                | Alta                   |
-| Backup                   | Manual/ausente     | Implementável       | Automático          | Automático             |
-| Segurança                | Baixa              | Melhorável          | Alta (criptografia) | Alta                   |
-| LGPD                     | Não conforme       | Parcial             | Conformidade total  | Conformidade parcial   |
-| Risco físico (falhas)    | Alto               | Médio               | Nulo                | Baixo                  |
+## 📬 Resultados Esperados
+- Maior confiabilidade no sistema da clínica
+- Melhoria no atendimento médico com dados acessíveis e seguros
+- Base técnica para expansão futura e uso de soluções híbridas
 
 ---
 
-### ✅ Escolha Final: Migração para Nuvem
-
-#### Motivos Técnicos
-- Redução de riscos físicos
-- Maior segurança (criptografia, controle de acesso)
-- Backup automatizado
-- Suporte técnico e atualizações garantidas
-- Escalabilidade com o crescimento da clínica
-
-#### Plataformas Sugeridas
-- **AWS EC2 + S3 (backup)**
-- **Microsoft Azure Virtual Machines + Blob Storage**
-
-#### Expansão Futuro
-- Possível implantação de solução híbrida
-- Uso de edge computing para performance local
-
----
-
-### 💬 Feedback do Cliente
-
-> “A proposta apresentada trouxe clareza para nossa decisão. A transição para a nuvem nos oferece mais segurança, disponibilidade e agilidade no acesso aos dados dos pacientes. Estamos confiantes de que essa modernização contribuirá para a melhoria do atendimento.”  
+## 💬 Feedback Simulado
+> “A proposta apresentou uma solução clara, moderna e segura. A clínica se sente preparada para crescer com confiança.”  
 > — Diretora Administrativa da Clínica VidaMais
 
 ---
 
-## 🟢 3. Criação do Mapa Mental
-
-### 🛠 Ferramentas Sugeridas
-- MindMeister  
-- Miro  
-- XMind  
-- Canva  
-
-### 🧩 Organização Visual
-- Cores por seção
-- Setas e conexões técnicas
-- Ícones e balões para destaques
-
-### 📝 Elementos Obrigatórios
-- Nome da clínica
-- Comparações técnicas
-- Justificativa da escolha
-- Feedback do cliente
-- Responsáveis do projeto
-
+## 👥 Equipe Responsável
+- Nome dos integrantes: Arthur, Caio, Pedro, Leonardo
+- Disciplina: Arquitetura de Computadores
+- Professor: Heleno Cardoso
 ---
 
-## 🔴 4. Finalização e Entrega
+## 📎 Repositório
+[Acesse o projeto completo no GitHub](link-do-repositorio)
 
-### 📤 Exportação
-- PDF e PNG do mapa
